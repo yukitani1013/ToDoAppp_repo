@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:todo/view/todo_list_page.dart';
+import 'package:isdl-todo/view/todo_list_page.dart';
 
 void main() {
   runApp(const TodoApp());
