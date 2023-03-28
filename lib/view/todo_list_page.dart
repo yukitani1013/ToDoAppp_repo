@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:todo/view/todo_add_page.dart';
+import 'package:isdl_todo/view/todo_add_page.dart';
 
 class TodoListPage extends StatefulWidget {
   const TodoListPage({super.key});
